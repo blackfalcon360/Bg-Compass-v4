@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BgCompass</string>
+    <string name="wallpaper_description">Live compass wallpaper: degrees in the middle, direction above the fingerprint area</string>
+</resources>
